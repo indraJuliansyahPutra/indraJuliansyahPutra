@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **You can connect with me on LinkedIn. Feel free to send me a message or connect with me to discuss data science and collaboration opportunities.**
 
-- ⚡ Fun fact **I enjoy exploring different genres of music and playing the football through phone or directly in the fieldin in my free time.**
+- ⚡ Fun fact **I enjoy exploring different genres of music and playing football either on my phone or directly on the field during my free time.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
