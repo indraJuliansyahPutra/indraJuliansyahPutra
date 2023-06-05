@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indra Juliansyah Putra</h1>
 <h3 align="center">I'm a passionate Informatics student with a strong interest in data science. I love exploring the endless possibilities of data and continuously learning to develop my skills in analyzing and solving complex problems.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajuliansyahputra&label=Profile%20views&color=0e75b6&style=flat" alt="indrajuliansyahputra" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajuliansyahputra" alt="indrajuliansyahputra" /></a> </p>
 
 - 🔭 I’m currently working on [Expanding my knowledge and skills in data science through personal projects and coursework.](https://github.com/indraJuliansyahPutra/Laptop-Price)
